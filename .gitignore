@@ -1,0 +1,68 @@
+code/
+docker_pie_backup/
+go/ 
+notes/
+
+# Ignore all history files
+.bash_history
+.bash_history-*
+
+# Ignore configuration and credential files
+.git-credentials
+.gitconfig
+.env*
+
+# Ignore hidden directories
+.ansible/
+.aws/
+.cache/
+.cargo/
+.config/
+.docker/
+.dotnet/
+.local/
+.npm/
+.rustup/
+.ssh/
+.terraform.d/
+.vscode-server/
+
+# Ignore the shell_exe directory
+
+# Ignore shell history and configuration files
+.bash_logout
+.bashrc
+.bashrc.save
+.lesshst
+.mysql_history
+.profile
+.selected_editor
+.sudo_as_admin_successful
+.wget-hsts
+
+# Ignore previous entries for clarity
+.bash_history
+.bash_history-*
+
+# Ignore configuration and credential files
+.git-credentials
+.gitconfig
+.env*
+
+# Ignore hidden directories
+.ansible/
+.aws/
+.cache/
+.cargo/
+.config/
+.docker/
+.dotnet/
+.local/
+.npm/
+.rustup/
+.ssh/
+.terraform.d/
+.vscode-server/
+
+# Ignore the shell_exe directory
+
